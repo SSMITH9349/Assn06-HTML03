@@ -39,3 +39,6 @@ section{
 
 /* Grid Outline Styles */
 
+body > * {
+   outline: 2px dashed red;
+}
