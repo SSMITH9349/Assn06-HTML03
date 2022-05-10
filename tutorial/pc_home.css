@@ -58,8 +58,13 @@ section#rightColumn{
    float:left;
    width: 67%;
 }
-
-
+section#rightColumn img{
+   display:block;
+   width: 100%;
+}
+section#rightColumn{
+   width: 25%;
+}
 
 
 /* Footer Styles */
