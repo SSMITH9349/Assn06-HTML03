@@ -25,6 +25,10 @@ body> header {
    grid-row: 1;
    grid-column: 1/-1;
 }
+body> article {grid-area: intro;}
+body> aside {grid-area: faq;}
+body> section {grid-area: article;}
+body> footer {grid-area: footer;}
 
 /* Grid Styles for Nested Grid */
 
