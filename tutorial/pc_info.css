@@ -59,7 +59,12 @@ div#info4{
 
 
 /* Fifth Infographic */
+div#info5{
+   display:block;
+   top: 800px;
+   left: 3%;
 
+}
 
 
 /* Sixth Infographic */
